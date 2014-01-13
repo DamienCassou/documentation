@@ -10,9 +10,9 @@ Writing user interfaces is notoriously a tedious task\.It often requires time an
 
 *Spec* is a framework for describing user interfaces\. It allows the separation of concerns between the different part of the user interface as expressed in the MVP pattern\.*Spec* emphasis the reuse of the widgets as well as there customization\.
 
-This article goal is to provide an overview of the *Spec* functionalities\. The general purpose of *Spec* will be explained through several examples among multiple sections\.
+This article goal is to provide an overview of the *Spec* functionalities\. The general purpose of *Spec* will be explained through several examples among sections\.
 
-First the 3 pillars of *Spec* will be explained\. Second we explose how *Spec* reuse subwidgets and how to customize widgets to make them fit the user needs\.Third the API of the *Spec* basic models is detailled as well as how to understand the meta information attached to this API\. The fourth section covers the two dynamic aspects of *Spec*\. The final section is dedicated to the creation of your own *Spec* model
+First the 3 pillars of *Spec* will be explained\. Second we expose how *Spec* reuse subwidgets and how to customize widgets to make them fit the user needs\.Third the API of the *Spec* basic models is detailled as well as how to understand the meta information attached to this API\. The fourth section covers the two dynamic aspects of *Spec*\. The final section is dedicated to the creation of your own *Spec* model\.
 
 ##2\.  The heart of Spec
 <a name="sec_heart_of_spec"></a>
